@@ -21,6 +21,11 @@ export const marketOverviewSections = [
           "Investment Grade",
           "High Yield",
           "Structured Finance",
+        ],
+      },
+      {
+        title: "Mortgage-Backed & Structured Credit",
+        items: [
           "ABS (Asset-Backed Securities)",
           "MBS (Mortgage-Backed Securities)",
           "RMBS",
