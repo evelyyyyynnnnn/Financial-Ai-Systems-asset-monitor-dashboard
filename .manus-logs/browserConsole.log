@@ -1,0 +1,3 @@
+[2026-04-16T19:36:06.081Z] {"timestamp":1776368164077,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-16T19:36:06.081Z] {"timestamp":1776368164097,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-16T19:36:06.081Z] {"timestamp":1776368164122,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
